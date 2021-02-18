@@ -1,36 +1,3 @@
-
-
-Skip to content
-Using Gmail with screen readers
-Error checking mail for erharshalverma@gmail.com.  
-Details
-  
-Dismiss
-Meet
-New meeting
-Join a meeting
-Hangouts
-
-32 of 10,201
-Fwd: Ip project
-Inbox
-
-Ruchi Bhayre
-Attachments
-Sat, Feb 13, 10:59 AM (5 days ago)
-to me
-
-
----------- Forwarded message ---------
-From: Lucky gour <laxmigour85@gmail.com>
-Date: Sat, 13 Feb 2021, 10:57 am
-Subject: Ip project
-To: <ruchi.bhayre@gmail.com>
-
-
-
-Attachments area
-
 import pandas as pd
 import numpy as np
 import matplotlib as pl
